@@ -1,6 +1,0 @@
-SUBDIRS(tau locsat libbson)
-
-INSTALL(
-	DIRECTORY rapidjson
-	DESTINATION ${SC3_PACKAGE_INCLUDE_DIR}
-)

@@ -1,2 +1,0 @@
-INSTALL(PROGRAMS tabinvmodifier.py RENAME tabinvmodifier DESTINATION ${SC3_PACKAGE_BIN_DIR})
-

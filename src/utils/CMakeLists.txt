@@ -1,3 +1,0 @@
-SC_BEGIN_PACKAGE(UTILS)
-
-SUBDIRS(libs apps)
