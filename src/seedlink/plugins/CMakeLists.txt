@@ -14,7 +14,6 @@ IF ( NOT MACOSX )
 		sockplugin
 		naqsplugin
 		q330plugin
-		reftek_plugin
 		ewexport_plugin
 		ewexport_pasv_plugin
 		scream_plugin
